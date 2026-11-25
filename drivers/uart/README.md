@@ -1,0 +1,1 @@
+Fait 100% par Gemini car beaucoup beaucoup de doc à lire juste pcq j'ai une skill issue (incapable de mettre un joli écran lcd (plus dur que l'UART mais skill issue quand même)).
