@@ -26,10 +26,13 @@ affiche le port série
 ##Makefile use (histoire de simplifier le pavé)##
 
 Compiler les drivers :
+
 $> make drivers
 
 Compiler un test : (contient un main donc doit être compilé seul)
+
 $> make test
 
 Upload dans l'arduino : (avec le nom du test compilé en arg)
+
 $> make upload PROG=test

@@ -12,3 +12,5 @@
 2 - port analogique (A0-A5)
 
 3 - GND
+
+/!\ Lire une donnée analogique empêche la lecture parallèle d'autres données, l'ACL ne pouvait faire qu'une conversion à la fois. J'ignore le comportement de l'ACL si on ose modifier le channel (ADCASRA) pendant une conversion.
